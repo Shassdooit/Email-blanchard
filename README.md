@@ -4,7 +4,7 @@
 
 ###  HTML-письмо для компании Blanchard
 
-- [Просмотреть вёрстку](https://shassdooit.github.io/email-blanchard/ "клик")  
+- [Просмотреть вёрстку](https://shassdooit.github.io/Email-blanchard/ "клик")  
 - [Просмотреть макет](https://www.figma.com/file/IjPFQbzPEyexijIJmHSxId/blanchard-mail?node-id=0%3A1&t=kpi29nYinJfPEV1u-0 "клик") 
  
  ____
